@@ -8,7 +8,7 @@ A minimalist, interactive web application designed for real-time numerical incre
 
 * 🔗 **Live Web App:** [View Counter App Live](https://amnaarif10.github.io/ass-10-Counter-app-/)
 * 📸 **Application Preview:**
-* <img width="1457" height="720" alt="Gemini_Generated_Image_17fnri17fnri17fn" src="https://github.com/user-attachments/assets/d3dccf93-5812-4a1b-a78a-761f99e350e5" />
+ <img width="1457" height="720" alt="Gemini_Generated_Image_17fnri17fnri17fn" src="https://github.com/user-attachments/assets/d3dccf93-5812-4a1b-a78a-761f99e350e5" />
 
 
 ---
